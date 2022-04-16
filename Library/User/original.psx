@@ -7,7 +7,9 @@ AQV251||6
 AQY272||4
 B2B-XH-A||2
 B5B-XH-A||5
+BatteryTerminal_LR6||4
 BLA05-12S12||7
+BME680||4
 C-L-R||2
 CAPP1V||2
 CH291-1220LF||4
@@ -31,6 +33,7 @@ FA238V(12MHz)||4
 FC-135||2
 Fiducial_Mark||1
 GR-KURUMI||34
+Grove-L||4
 HeaderPin14||14
 Hole2||2
 IC8PIN||8

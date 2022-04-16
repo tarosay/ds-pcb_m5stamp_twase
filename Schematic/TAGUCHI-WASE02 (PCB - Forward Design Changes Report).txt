@@ -1,0 +1,15 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, April 16, 2022
+Design Path:        C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE02.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2022/04/16 4:04:34
+Editing Time:       395 min
+Units:              mm (precision 3)
+
+Deleted component reference "IC1".
+
+
+End Of Report.

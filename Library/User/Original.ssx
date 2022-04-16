@@ -3,6 +3,7 @@
 +5V||1
 +7.5V||1
 +9V||1
++BATT V||1
 +V||1
 3G Shield||28
 6D0F||6
@@ -15,8 +16,10 @@ AQM1602 LCD I2C||4
 AQV251||6
 AQY272||4
 BatteryCase||2
+BatteryTerminal||4
 BCR5AM||4
 BLA05-12S12||7
+BME680||4
 C||2
 C+||2
 CR2450Case||3

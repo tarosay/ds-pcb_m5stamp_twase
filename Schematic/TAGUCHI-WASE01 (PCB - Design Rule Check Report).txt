@@ -1,0 +1,78 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Saturday, April 16, 2022
+Design Path:        C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE01.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2022/04/16 4:03:00
+Editing Time:       394 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Pad Error (P-P) between (489.250 477.700) and (489.000 477.700) on Layer "[Top]".
+    Error between Component Pad CONN2.8 and Component Pad CONN2.9, Gap is 0.250 needs to be 0.254.
+Pad to Pad Error (P-P) between (498.900 485.250) and (498.900 485.100) on Layer "[Top]".
+    Error between Component Pad J1.1 (Net 'N0014') and Component Pad J1.2 (Net 'N0013'), Gap is 0.150 needs to be 0.254.
+Pad to Pad Error (P-P) between (496.100 485.250) and (496.100 485.100) on Layer "[Top]".
+    Error between Component Pad J2.1 (Net 'N0016') and Component Pad J2.2 (Net 'N0015'), Gap is 0.150 needs to be 0.254.
+Pad to Pad Error (P-P) between (493.200 485.250) and (493.200 485.100) on Layer "[Top]".
+    Error between Component Pad J3.1 (Net 'N0019') and Component Pad J3.2 (Net 'N0018'), Gap is 0.150 needs to be 0.254.
+Pad to Pad Error (P-P) between (490.200 485.250) and (490.200 485.100) on Layer "[Top]".
+    Error between Component Pad J4.1 (Net 'N0021') and Component Pad J4.2 (Net 'N0020'), Gap is 0.150 needs to be 0.254.
+Component to Board error (Cm-B) at (445.300 512.900) on layer "[Top]".
+    IC1.
+
+Number of errors found : 6
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.

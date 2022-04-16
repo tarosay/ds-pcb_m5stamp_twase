@@ -1,0 +1,20 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Saturday, April 16, 2022
+Design Path:        C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE01.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2022/04/16 2:54:32
+Editing Time:       337 min
+Units:              mm (precision 3)
+
+Added component reference "CONN11" of component "CONN4", package "DIL".
+
+Connected pin "CONN11.1" to net "N0061".
+Connected pin "CONN11.2" to net "N0060".
+Connected pin "CONN11.3" to net "+5V".
+Connected pin "CONN11.4" to net "GND".
+
+
+End Of Report.

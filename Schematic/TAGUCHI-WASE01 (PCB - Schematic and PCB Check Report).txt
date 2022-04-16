@@ -1,0 +1,17 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Saturday, April 16, 2022
+Design Path:        C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE01.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2022/04/16 2:54:32
+Editing Time:       337 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE01.sch" with PCB "C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE01.pcb"
+============================================================================================================================================================================
+
+
+End Of Report.
