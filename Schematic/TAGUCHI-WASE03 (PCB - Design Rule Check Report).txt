@@ -1,12 +1,12 @@
 Design Rule Check Report
 ------------------------
 
-Report Written:     Saturday, April 16, 2022
+Report Written:     Tuesday, April 19, 2022
 Design Path:        C:\git\github\ds-pcb_m5stamp_twase\Schematic\TAGUCHI-WASE03.pcb
 Design Title:       
 Created:            2022/04/10 3:23:23
-Last Saved:         2022/04/16 14:07:07
-Editing Time:       500 min
+Last Saved:         2022/04/19 3:37:49
+Editing Time:       1111 min
 Units:              mm (precision 3)
 
 
