@@ -15,6 +15,7 @@ AD8237||#SM=8=MSOP8Pin||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Par
 AD8553||#SM=10=MSOP10pin||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 ADG419LD||#SM=8=ADG419LD||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 ADT7420||#=6=ADT7420||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+AE-BME280||#DIL=6=PIN6||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 AE-BME680||#DIL=4=BME680||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 AE-OKL-T||#DIL=13=AE-OKL-T||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 AE-SSR-A||#=4=AE-SSR-A||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
@@ -194,6 +195,7 @@ TPS63060||#=12=TPS63060||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Pa
 TWE-LITE-DIP||#=34=TWE-LITE-DIP||@RS Part Number=||@Allied_Number=||@Manufacturer_Name=||@Manufacturer_Part_Number=||@Other Part Number=||@3D Package=||@Height=
 UDB-05LFPN||#=2=PiezoSounder||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 USB-C-A295-CTRPB-1||#DIL=4=USB-C-A295-CTRPB-1||@[Description]=USB-C Power CONN||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
+USB-TypeC-A295-CTRPB-1||#DIL=4=USB-TypeC-A295-CTRPB-1||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 USB_Viertical_A||#DIL=7=USB_Vertical_A||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 UX60A-MB-5ST||#SM=9=UX60A-MB-5ST||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
 WRBB||#=24=WakayamaRB||@Manufacturer_Part_Number=||@Manufacturer_Name=||@RS Part Number=||@Allied_Number=||@Other Part Number=||@3D Package=||@Height=
